@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version  = "0.1"
   spec.authors  = ["Michael Jung"]
 
-  spec.summary  = "A seminar theme for Jekyll based on minimaa."
+  spec.summary  = "A seminar theme for Jekyll based on minima."
   spec.homepage = "https://github.com/mjungmath/jekyll-seminar"
   spec.license  = "MIT"
 
